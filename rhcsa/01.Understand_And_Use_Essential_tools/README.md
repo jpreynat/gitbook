@@ -2,8 +2,8 @@
 # Understand and use essential tools
 	
 	* Access a shell prompt and issue commands with correct syntax
-
- 	* Use input-output redirection (>, >>, |, 2>, etc.)
+	
+	* Use input-output redirection (>, >>, |, 2>, etc.)
 	
 	* Use grep and regular expressions to analyze text
 	
@@ -23,5 +23,6 @@
 	
 	* Locate, read, and use system documentation including man, info, and files in /usr/share/doc
 
-[RHCSA Objectives](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
+[RHCSA Objectives](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)  
+
 Copied from the RedHat Website August 2018.
