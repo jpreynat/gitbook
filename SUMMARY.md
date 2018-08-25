@@ -1,11 +1,21 @@
 # Table of contents
 
 ### RHCSA
-* [Understand and Use Essential tools](rhcsa/README.md)
-	* [Access Shell Issue Commands](rhcsa/01.Understand_And_Use_Essential_tools/01.Access_Shell_Issue_Commands.md)
-	* [Input and Output Redirection](rhcsa/01.Understand_And_Use_Essential_tools/02.Input_Output_Redirection.md)
-	* [Grep and Regex](rhcsa/01.Understand_And_Use_Essential_tools/03.Grep_Regex.md)
-	* [SSH](rhcsa/01.Understand_And_Use_Essential_tools/04.SSH.md)
+* [Understand and Use Essential tools](rhcsa/01.Understand_And_Use_Essential_tools/README.md)
+	* [Access a shell prompt and issue commands with correct syntax](rhcsa/01.Understand_And_Use_Essential_tools/01.Access_Shell_Issue_Commands.md)
+	* [Use input-output redirection (>, >>, |, 2>, etc.)](rhcsa/01.Understand_And_Use_Essential_tools/02.Input_Output_Redirection.md)
+	* [Use grep and regular expressions to analyze text](rhcsa/01.Understand_And_Use_Essential_tools/03.Grep_Regex.md)
+	* [Access remote systems using ssh](rhcsa/01.Understand_And_Use_Essential_tools/04.SSH.md)
+	* [Log in and switch users in multiuser targets](rhcsa/01.Understand_And_Use_Essential_tools/05.Multiuser_Target.md)
+	* [Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2](rhcsa/01.Understand_And_Use_Essential_tools/06.Archive_Compress_Unpack_Uncompress.md)
+	* [Create and Edit Text Files](rhcsa/01.Understand_And_Use_Essential_tools/07.Create_Edit_Files.md)
+	* [Create, delete, copy, and move files and directories
+](rhcsa/01.Understand_And_Use_Essential_tools/08.Create_Del_Copy_Move_Files_Dirs.md)
+	* [Create hard and soft links](rhcsa/01.Understand_And_Use_Essential_tools/09.Hard_Soft_Links.md)
+	* [List, set, and change standard ugo/rwx permissions
+](rhcsa/01.Understand_And_Use_Essential_tools/10.File_Permissions.md)
+	* [Locate, read, and use system documentation including man, info, and files in /usr/share/doc](rhcsa/01.Understand_And_Use_Essential_tools/11.Using_Sys_Doc.md)
+
 
 
 
