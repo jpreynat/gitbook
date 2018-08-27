@@ -1,5 +1,4 @@
 # Table of contents
-
 * [RHCSA](rhcsa/README.md)
 	* [Understand and Use Essential tools](rhcsa/01.Understand_And_Use_Essential_tools/README.md)
 		* [Access a shell prompt and issue commands with correct syntax](rhcsa/01.Understand_And_Use_Essential_tools/01.Access_Shell_Issue_Commands.md)
